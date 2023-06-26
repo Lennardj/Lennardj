@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lennardj.
 - 👀 Life long learner.
-- 🌱 I’m currently learning MERN full stack development, CI/CD, DevOps, and general cloud-based deployments.
+- 🌱 I’m passionate about software engineering, full stack development, CI/CD, DevOps, and general cloud-based deployments.
 - 💞️
   <a href="https://www.linkedin.com/in/lennardjohn/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="22"/>
