@@ -13,6 +13,9 @@
 <a href="https://dev.to/lennardj">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="22"/>
 </a>
+<a href="https://lennardjohn.org">
+  <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" height="22"/>
+</a>
 
 ---
 
